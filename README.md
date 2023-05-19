@@ -38,9 +38,25 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-### Home Page:
+### SERVER OUTPUT
 
-![output](./images/homepage.jpg)
+![image](https://github.com/KANISHKAR2607/productcompanywebsite/assets/118886772/babe4e31-6779-4b76-9a19-2c99d23b2e66)
+
+### HOME PAGE
+
+![image](https://github.com/KANISHKAR2607/productcompanywebsite/assets/118886772/8b569e27-4caf-4e80-ab3e-1ce8424bd694)
+
+### PRODUCTS PAGE
+
+![image](https://github.com/KANISHKAR2607/productcompanywebsite/assets/118886772/40655cb3-b459-4b74-a4b7-7201091abac3)
+
+### PEOPLE PAGE
+
+![image](https://github.com/KANISHKAR2607/productcompanywebsite/assets/118886772/0ac31f9e-50eb-4312-bc68-31c2adc24583)
+
+### CONTACT PAGE
+
+![image](https://github.com/KANISHKAR2607/productcompanywebsite/assets/118886772/9fba4800-f0aa-4e45-9486-72df782de3e2)
 
 ## Result:
 
